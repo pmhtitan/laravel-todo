@@ -1,0 +1,16 @@
+{
+    "web": {
+        "client_id": "907707569531-gn87hprmd826vejttqrfesd7dbkgjv8d.apps.googleusercontent.com",
+        "project_id": "direct-hope-321017",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "CvSLeejsal8BpOdnd5oiVdmx",
+        "redirect_uris": [
+            "http://localhost:8083/1-Curso-PHP/Fase2/LARAVEL/todo-laravel/public/callback"
+        ],
+        "javascript_origins": [
+            "http://localhost:8083"
+        ]
+    }
+}
